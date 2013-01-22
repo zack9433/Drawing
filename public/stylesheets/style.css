@@ -1,0 +1,13 @@
+header {
+    text-align: center;
+    background-color: #FFF200;
+}
+
+body {
+    background-color: whiteSmoke;
+}
+
+canvas {
+    border: 1px solid #000000;
+    background-color: white;
+}
